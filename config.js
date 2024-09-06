@@ -14,7 +14,7 @@ global.authFile = `MysticSession`;
 global.isBaileysFail = false
 
 global.owner = [
-  ['5219992095479', '👑 Mystic - Creador 👑', true],
+  ['212694129032', '👑 Mystic - Creador 👑', true],
   ['51940617554', '💫 Mystic - Collaborator 2 💫', true],
   ['51996089079', '💫 Mystic - Collaborator 3 💫', true],
   ['5218442286089', '💫 Mystic - Collaborator 4 💫', true],
@@ -51,8 +51,8 @@ global.owner = [
   ['5218444937407']
 ];
 
-global.suittag = ['5219993404349'];
-global.prems = ['51995386439'];
+global.suittag = ['212694129032'];
+global.prems = ['212694129032'];
 
 global.packname = 'Sticker';
 global.author = 'The Mystic - Bot';
@@ -82,13 +82,13 @@ global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', s
 global.wm2 = `${dia} ${fecha}\nThe Mystic - Bot`;
 global.gt = 'The Mystic - Bot';
 global.mysticbot = 'The Mystic - Bot';
-global.channel = 'https://whatsapp.com/channel/0029Vaein6eInlqIsCXpDs3y';
+global.channel = 'https://whatsapp.com/channel/0029VaoKHSR6rsQy9XlaoY0I';
 global.md = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
 global.mysticbot = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
 global.waitt = '*_[ ⏳ ] Cargando..._*';
 global.waittt = '*_[ ⏳ ] Cargando..._*';
 global.waitttt = '*_[ ⏳ ] Cargando..._*';
-global.nomorown = '5219993404349';
+global.nomorown = '212694129032';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
